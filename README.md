@@ -1,1 +1,1 @@
-# praveen-thangavel-portfolio
+# praveenthangavel-portfolio
