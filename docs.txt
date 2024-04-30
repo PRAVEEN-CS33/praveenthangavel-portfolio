@@ -1,0 +1,24 @@
+
+step 1:
+
+npx install styled-components react-vertical-timeline-component 
+react-tilt react-scroll react-icons three maath framer-motion 
+emailjs @react-three/fiber @react-three/drei @mui/material 
+@mui/lab @mui/icons-material @emotion/styled @emotion/react 
+@emailjs/browser typewriter-effect
+
+npm i typewriter-effect
+npm install styled-components
+npm install react-vertical-timeline-component
+npm install react-tilt
+npm install react-scroll
+npm install react-icons
+npm install three
+npm install mathjs maath
+npm install framer-motion
+npm install @react-three/fiber @react-three/drei
+npm install @mui/material @mui/lab @mui/icons-material
+npm install @emotion/styled @emotion/react @emailjs/browser
+npm install react-router-dom
+npm i react-vertical-timeline-component
+npm install emailjs
